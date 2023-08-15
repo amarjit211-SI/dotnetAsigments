@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPIDemo.Sports",
+    "\\WebAPIDemo.Sports\\Controllers",
+    "\\WebAPIDemo.Sports\\Interfaces",
+    "\\WebAPIDemo.Sports\\Models",
+    "\\WebAPIDemo.Sports\\Services"
+  ],
+  "SelectedNode": "\\WebAPIDemo.Sports\\Services\\SportsRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
