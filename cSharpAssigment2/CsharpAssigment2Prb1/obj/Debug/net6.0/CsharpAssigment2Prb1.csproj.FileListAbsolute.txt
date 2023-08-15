@@ -1,0 +1,15 @@
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\bin\Debug\net6.0\CsharpAssigment2Prb1.exe
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\bin\Debug\net6.0\CsharpAssigment2Prb1.deps.json
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\bin\Debug\net6.0\CsharpAssigment2Prb1.runtimeconfig.json
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\bin\Debug\net6.0\CsharpAssigment2Prb1.dll
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\bin\Debug\net6.0\CsharpAssigment2Prb1.pdb
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\CsharpAssigment2Prb1.csproj.AssemblyReference.cache
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\CsharpAssigment2Prb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\CsharpAssigment2Prb1.AssemblyInfoInputs.cache
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\CsharpAssigment2Prb1.AssemblyInfo.cs
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\CsharpAssigment2Prb1.csproj.CoreCompileInputs.cache
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\CsharpAssigment2Prb1.dll
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\refint\CsharpAssigment2Prb1.dll
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\CsharpAssigment2Prb1.pdb
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\CsharpAssigment2Prb1.genruntimeconfig.cache
+C:\Users\amarjit.gupta\Desktop\.net\CsharpAssigment2\obj\Debug\net6.0\ref\CsharpAssigment2Prb1.dll
